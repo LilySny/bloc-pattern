@@ -344,6 +344,7 @@ class Repository extends Disposable {
 
 ```
 
+
 ### For more information
 
 Access [Flutterando Blog](https://flutterando.com.br).
