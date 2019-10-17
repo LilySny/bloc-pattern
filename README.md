@@ -200,7 +200,7 @@ You can define if the dependency will be a **Singleton** or not:
 
 ``` dart
 
-Bloc((i) => CounterBloc(), singleton: true),
+Bloc((i) => CounterBloc(), singleton: true)
 
 ```
 To inject the dependency in your class use:
